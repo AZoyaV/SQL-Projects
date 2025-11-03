@@ -31,7 +31,6 @@ WITH
     4,
     5 ),
 
-
   # Основні метрики по листам
   metric2 AS (
 SELECT
@@ -104,7 +103,6 @@ SELECT
 FROM
   metric2 ),
 
-
   # Додаткові метрики total
   metric4 AS (
 SELECT
@@ -115,7 +113,6 @@ FROM
   metric3
 GROUP BY
   1 ),
-
 
   # Додаткові метрики rank
   metric5 AS (
