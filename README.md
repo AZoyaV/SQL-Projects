@@ -1,1 +1,1 @@
-![Загальні значення в розрізі країн](images/LookerStudio1.png)
+![Загальні значення в розрізі країн](SQL-Projects/images/LookerStudio1.png)
