@@ -1,6 +1,6 @@
-```sql
 # Calculation of the Percentage of Emails Sent to Each Account within Each Month
 # Determination of the First and Last Email Sending Dates for Each Account per Month
+```sql
 SELECT
   DISTINCT DATE_TRUNC(sent_month1, month) AS sent_month,
   id_account,
