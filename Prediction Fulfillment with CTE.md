@@ -1,4 +1,5 @@
 # Displaying the Percentage of Cumulative Income Achievement against Cumulative Targets (Predict) by Day
+```sql
 WITH
   union_day AS (
   SELECT
